@@ -1,0 +1,279 @@
+2025-10-03 17:00:33
+SQL: SELECT 
+        c.id_cfdi,
+        c.folio,
+        c.fecha_emision,
+        c.emisor,
+        c.rfc,
+        c.tipo,
+        c.importe,
+        c.total,
+        c.estado,
+        cl.nombre_comercial as cliente_nombre,
+        COALESCE(cl.comision_a, 0) as porcentaje_comision_a,
+        COALESCE(cl.comision_b, 0) as porcentaje_comision_b
+    FROM cf_cfdis c
+    LEFT JOIN sys_clientes cl ON c.id_cliente = cl.id_cliente
+    WHERE 1=1
+PARAMS: Array
+(
+)
+
+
+2025-10-03 17:00:56
+SQL: SELECT 
+        c.id_cfdi,
+        c.folio,
+        c.fecha_emision,
+        c.emisor,
+        c.rfc,
+        c.tipo,
+        c.importe,
+        c.total,
+        c.estado,
+        cl.nombre_comercial as cliente_nombre,
+        COALESCE(cl.comision_a, 0) as porcentaje_comision_a,
+        COALESCE(cl.comision_b, 0) as porcentaje_comision_b
+    FROM cf_cfdis c
+    LEFT JOIN sys_clientes cl ON c.id_cliente = cl.id_cliente
+    WHERE 1=1
+PARAMS: Array
+(
+)
+
+
+2025-10-03 17:01:05
+SQL: SELECT 
+        c.id_cfdi,
+        c.folio,
+        c.fecha_emision,
+        c.emisor,
+        c.rfc,
+        c.tipo,
+        c.importe,
+        c.total,
+        c.estado,
+        cl.nombre_comercial as cliente_nombre,
+        COALESCE(cl.comision_a, 0) as porcentaje_comision_a,
+        COALESCE(cl.comision_b, 0) as porcentaje_comision_b
+    FROM cf_cfdis c
+    LEFT JOIN sys_clientes cl ON c.id_cliente = cl.id_cliente
+    WHERE 1=1
+PARAMS: Array
+(
+)
+
+
+2025-10-03 17:01:12
+SQL: SELECT 
+        c.id_cfdi,
+        c.folio,
+        c.fecha_emision,
+        c.emisor,
+        c.rfc,
+        c.tipo,
+        c.importe,
+        c.total,
+        c.estado,
+        cl.nombre_comercial as cliente_nombre,
+        COALESCE(cl.comision_a, 0) as porcentaje_comision_a,
+        COALESCE(cl.comision_b, 0) as porcentaje_comision_b
+    FROM cf_cfdis c
+    LEFT JOIN sys_clientes cl ON c.id_cliente = cl.id_cliente
+    WHERE 1=1 AND c.tipo = ?
+PARAMS: Array
+(
+    [0] => I
+)
+
+
+2025-10-03 17:01:15
+SQL: SELECT 
+        c.id_cfdi,
+        c.folio,
+        c.fecha_emision,
+        c.emisor,
+        c.rfc,
+        c.tipo,
+        c.importe,
+        c.total,
+        c.estado,
+        cl.nombre_comercial as cliente_nombre,
+        COALESCE(cl.comision_a, 0) as porcentaje_comision_a,
+        COALESCE(cl.comision_b, 0) as porcentaje_comision_b
+    FROM cf_cfdis c
+    LEFT JOIN sys_clientes cl ON c.id_cliente = cl.id_cliente
+    WHERE 1=1 AND c.tipo = ?
+PARAMS: Array
+(
+    [0] => E
+)
+
+
+2025-10-04 11:49:12
+SQL: SELECT 
+        c.id_cfdi,
+        c.folio,
+        c.fecha_emision,
+        c.emisor,
+        c.rfc,
+        c.tipo,
+        c.importe,
+        c.total,
+        c.estado,
+        cl.nombre_comercial as cliente_nombre,
+        COALESCE(cl.comision_a, 0) as porcentaje_comision_a,
+        COALESCE(cl.comision_b, 0) as porcentaje_comision_b
+    FROM cf_cfdis c
+    LEFT JOIN sys_clientes cl ON c.id_cliente = cl.id_cliente
+    WHERE 1=1 AND c.folio LIKE ?
+PARAMS: Array
+(
+    [0] => %01%
+)
+
+
+2025-10-04 11:49:14
+SQL: SELECT 
+        c.id_cfdi,
+        c.folio,
+        c.fecha_emision,
+        c.emisor,
+        c.rfc,
+        c.tipo,
+        c.importe,
+        c.total,
+        c.estado,
+        cl.nombre_comercial as cliente_nombre,
+        COALESCE(cl.comision_a, 0) as porcentaje_comision_a,
+        COALESCE(cl.comision_b, 0) as porcentaje_comision_b
+    FROM cf_cfdis c
+    LEFT JOIN sys_clientes cl ON c.id_cliente = cl.id_cliente
+    WHERE 1=1 AND c.folio LIKE ?
+PARAMS: Array
+(
+    [0] => %01%
+)
+
+
+2025-10-07 13:25:00
+SQL: SELECT 
+        c.id_cfdi,
+        c.folio,
+        c.fecha_emision,
+        c.emisor,
+        c.rfc,
+        c.tipo,
+        c.importe,
+        c.total,
+        c.estado,
+        cl.nombre_comercial as cliente_nombre,
+        COALESCE(cl.comision_a, 0) as porcentaje_comision_a,
+        COALESCE(cl.comision_b, 0) as porcentaje_comision_b
+    FROM cf_cfdis c
+    LEFT JOIN sys_clientes cl ON c.id_cliente = cl.id_cliente
+    WHERE 1=1 AND c.folio LIKE ? AND c.emisor LIKE ? AND c.rfc LIKE ? AND c.tipo = ? AND DATE(c.fecha_emision) = ?
+PARAMS: Array
+(
+    [0] => %45%
+    [1] => %tgs%
+    [2] => %gtl160330nt9%
+    [3] => I
+    [4] => 2025-10-02
+)
+
+
+2025-10-07 13:29:49
+SQL: SELECT 
+        c.id_cfdi,
+        c.folio,
+        c.fecha_emision,
+        c.emisor,
+        c.rfc,
+        c.tipo,
+        c.importe,
+        c.total,
+        c.estado,
+        cl.nombre_comercial as cliente_nombre,
+        COALESCE(cl.comision_a, 0) as porcentaje_comision_a,
+        COALESCE(cl.comision_b, 0) as porcentaje_comision_b
+    FROM cf_cfdis c
+    LEFT JOIN sys_clientes cl ON c.id_cliente = cl.id_cliente
+    WHERE 1=1
+PARAMS: Array
+(
+)
+
+
+2025-10-07 13:37:56
+SQL: SELECT 
+        c.id_cfdi,
+        c.folio,
+        c.fecha_emision,
+        c.emisor,
+        c.rfc,
+        c.tipo,
+        c.importe,
+        c.total,
+        c.estado,
+        cl.nombre_comercial as cliente_nombre,
+        COALESCE(cl.comision_a, 0) as porcentaje_comision_a,
+        COALESCE(cl.comision_b, 0) as porcentaje_comision_b
+    FROM cf_cfdis c
+    LEFT JOIN sys_clientes cl ON c.id_cliente = cl.id_cliente
+    WHERE 1=1
+PARAMS: Array
+(
+)
+
+
+2025-10-07 13:38:09
+SQL: SELECT 
+        c.id_cfdi,
+        c.folio,
+        c.fecha_emision,
+        c.emisor,
+        c.rfc,
+        c.tipo,
+        c.importe,
+        c.total,
+        c.estado,
+        cl.nombre_comercial as cliente_nombre,
+        COALESCE(cl.comision_a, 0) as porcentaje_comision_a,
+        COALESCE(cl.comision_b, 0) as porcentaje_comision_b
+    FROM cf_cfdis c
+    LEFT JOIN sys_clientes cl ON c.id_cliente = cl.id_cliente
+    WHERE 1=1 AND c.rfc LIKE ?
+PARAMS: Array
+(
+    [0] => %abc%
+)
+
+
+2025-10-17 12:31:10
+SQL: SELECT 
+        c.id_cfdi,
+        c.folio,
+        c.fecha_emision,
+        c.emisor,
+        c.rfc,
+        c.tipo,
+        c.importe,
+        c.total,
+        c.estado,
+        cl.nombre_comercial as cliente_nombre,
+        (
+            SELECT GROUP_CONCAT(CONCAT(cm.nombre, ' (', cc.porcentaje, '%)') SEPARATOR '
+')
+            FROM com_cliente cc
+            LEFT JOIN comisionistas cm ON cc.id_comision = cm.id_comision
+            WHERE cc.id_cliente = c.id_cliente
+        ) as comisiones
+    FROM cf_cfdis c
+    LEFT JOIN sys_clientes cl ON c.id_cliente = cl.id_cliente
+    WHERE 1=1
+PARAMS: Array
+(
+)
+
+
