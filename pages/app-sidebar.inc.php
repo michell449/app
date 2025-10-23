@@ -14,7 +14,7 @@
             <!--<img src="../assets/img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image opacity-75 shadow" />-->
             <!--end::Brand Image-->
             <!--begin::Brand Text-->
-            <span class="brand-text fw-light"><?php echo SYSNAME.' '.VERSION;?></span>
+            <span class="brand-text fw-light"><?php echo SYSNAME . ' ' . VERSION; ?></span>
             <!--end::Brand Text-->
         </a>
         <!--end::Brand Link-->
@@ -34,11 +34,11 @@
                             Dashboard
                             <i class="#"></i>
                         </p>
-                        </a>
+                    </a>
                     <ul class="nav nav-treeview">
                     </ul>
                 </li>
-                <!--end::menu--> 
+                <!--end::menu-->
 
                 <!--begin::Modulo Planeación -->
                 <li class="nav-item" data-id-opcion="2" data-padre="0">
@@ -50,7 +50,7 @@
                         </p>
                     </a>
                     <ul class="nav nav-treeview">
-                                          
+
                         <li class="nav-item" data-id-opcion="6" data-padre="2">
                             <a href="panel?pg=proyectos-dashboard" class="nav-link">
                                 <i class="nav-icon bi bi-diagram-3"></i>
@@ -107,7 +107,7 @@
                                 <p>Expedientes digitales</p>
                             </a>
                         </li>
-                       
+
                         <li class="nav-item" data-id-opcion="13" data-padre="3">
                             <a href="panel?pg=exp-notariales" class="nav-link">
                                 <i class="nav-icon bi bi-archive"></i>
@@ -127,7 +127,7 @@
                                 <p>Instituciones</p>
                             </a>
                         </li>
-                       
+
                     </ul>
                 </li>
                 <!--begin::Modulo Documentos -->
@@ -153,7 +153,7 @@
                             </a>
                         </li>
 
-                        <li class="nav-item" data-id-opcion="16" data-padre="4" >
+                        <li class="nav-item" data-id-opcion="16" data-padre="4">
                             <a href="panel?pg=administracion-cfdis" class="nav-link">
                                 <i class="nav-icon bi bi-file-binary"></i>
                                 <p>Administracion de CFDI's</p>
@@ -165,13 +165,13 @@
                                 <p>Reporte de CFDI's</p>
                             </a>
                         </li>
-                        <li class="nav-item"  data-padre="4">
+                        <li class="nav-item" data-padre="4">
                             <a href="panel?pg=comisiones" class="nav-link">
                                 <i class="nav-icon bi bi-bank"></i>
                                 <p>Comisiones</p>
                             </a>
                         </li>
-                        <li class="nav-item"  data-padre="4">
+                        <li class="nav-item" data-padre="4">
                             <a href="panel?pg=catalogos-productos" class="nav-link">
                                 <i class="nav-icon bi bi-dice-4"></i>
                                 <p>Productos</p>
@@ -217,7 +217,7 @@
                             <i class="nav-arrow bi bi-chevron-right"></i>
                         </p>
                     </a>
-                    <ul class="nav nav-treeview" >
+                    <ul class="nav nav-treeview">
                         <li class="nav-item" data-id-opcion="23" data-padre="5">
                             <a href="panel?pg=usuarios-config" class="nav-link">
                                 <i class="nav-icon bi bi-person-circle"></i>
@@ -232,28 +232,49 @@
                         </li>
                     </ul>
                 </li>
+                <!--end::Modulo Documentos -->
+
+                <!--begin::modulo facturacion-->
+                <li class="nav-item" data-id-opcion="3" data-padre="0">
+                    <a href="#" class="nav-link">
+                        <i class="nav-icon bi bi-receipt"></i>
+                        <p>
+                            Facturación
+                            <i class="nav-arrow bi bi-chevron-right"></i>
+                        </p>
+                    </a>
+                    <ul class="nav nav-treeview">
+
+                        <li class="nav-item" data-id-opcion="12" data-padre="3">
+                            <a href="panel?pg=facturar" class="nav-link">
+                                <i class="nav-icon bi bi-receipt-cutoff"></i>
+                                <p>Facturar</p>
+                            </a>
+                        </li>
+
+                    </ul>
+                </li>
             </ul>
             <!--end::Sidebar Menu-->
         </nav>
-    </div>    
+    </div>
     <!--end::Sidebar Wrapper-->
 </aside>
 <!-- Script para mantener activo el submenú seleccionado en el sidebar, usando clases Bootstrap -->
 <script>
-document.addEventListener('DOMContentLoaded', function() {
-    var url = window.location.href;
-    var links = document.querySelectorAll('.sidebar-menu .nav-link');
-    links.forEach(function(link) {
-        if (link.href && url.indexOf(link.href) !== -1) {
-            link.classList.add('active', 'bg-white', 'text-dark', 'fw-bold');
-            // Si está dentro de un submenú, abrir el menú padre pero sin cambiar el diseño del módulo principal
-            var treeview = link.closest('.nav-treeview');
-            if (treeview) {
-                treeview.style.display = 'block';
+    document.addEventListener('DOMContentLoaded', function() {
+        var url = window.location.href;
+        var links = document.querySelectorAll('.sidebar-menu .nav-link');
+        links.forEach(function(link) {
+            if (link.href && url.indexOf(link.href) !== -1) {
+                link.classList.add('active', 'bg-white', 'text-dark', 'fw-bold');
+                // Si está dentro de un submenú, abrir el menú padre pero sin cambiar el diseño del módulo principal
+                var treeview = link.closest('.nav-treeview');
+                if (treeview) {
+                    treeview.style.display = 'block';
+                }
             }
-        }
+        });
     });
-});
 </script>
 <!-- Fin script sidebar activo -->
-
