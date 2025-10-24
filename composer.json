@@ -1,0 +1,9 @@
+{
+    "require": {
+        "phpcfdi/cfditopdf": "^0.4.2",
+        "phpcfdi/sat-ws-descarga-masiva": "^1.1",
+        "phpcfdi/credentials": "^1.3",
+        "guzzlehttp/guzzle": "^7.10",
+        "mpdf/mpdf": "^8.2"
+    }
+}

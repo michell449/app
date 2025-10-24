@@ -4,24 +4,12 @@
 header('Content-Type: application/json; charset=utf-8');
 
 // Incluir el autoload de Composer
-$autoloadPrimary = __DIR__ . '/../vendor/autoload.php';
-$autoloadFallback = dirname(__DIR__) . '/vendor/autoload.php';
-if (file_exists($autoloadPrimary)) {
-    require_once $autoloadPrimary;
-} elseif (file_exists($autoloadFallback)) {
-    require_once $autoloadFallback;
-} else {
-    http_response_code(500);
-    echo json_encode(['success' => false, 'message' => 'Falta autoload de Composer']);
-    exit;
-}
+$autoloadPrimary = __DIR__ . '/autoload-phpcfdi.php';
 
 // Iniciar sesión para acceder al Token y FIEL
 if (session_status() === PHP_SESSION_NONE) {
     session_start();
-}
-
-require_once __DIR__ . '/../config.php'; 
+} 
 require_once __DIR__ . '/class/db.php';
 
 use PhpCfdi\SatWsDescargaMasiva\RequestBuilder\FielRequestBuilder\Fiel;

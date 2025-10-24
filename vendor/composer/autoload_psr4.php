@@ -6,5 +6,19 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'PHPMailer\\PHPMailer\\' => array($vendorDir . '/phpmailer/phpmailer/src'),
+    'XmlResourceRetriever\\' => array($vendorDir . '/eclipxe/xmlresourceretriever/src/XmlResourceRetriever'),
+    'Symfony\\Polyfill\\Php80\\' => array($vendorDir . '/symfony/polyfill-php80'),
+    'Symfony\\Component\\Process\\' => array($vendorDir . '/symfony/process'),
+    'Spipu\\Html2Pdf\\' => array($vendorDir . '/spipu/html2pdf/src'),
+    'PhpCfdi\\SatWsDescargaMasiva\\' => array($vendorDir . '/phpcfdi/sat-ws-descarga-masiva/src'),
+    'PhpCfdi\\Rfc\\' => array($vendorDir . '/phpcfdi/rfc/src'),
+    'PhpCfdi\\Credentials\\' => array($vendorDir . '/phpcfdi/credentials/src'),
+    'PhpCfdi\\CfdiToPdf\\' => array($vendorDir . '/phpcfdi/cfditopdf/src'),
+    'PhpCfdi\\CfdiCleaner\\' => array($vendorDir . '/phpcfdi/cfdi-cleaner/src'),
+    'Michell\\SatWsDescargaMasivaMain\\' => array($baseDir . '/src'),
+    'League\\Plates\\' => array($vendorDir . '/league/plates/src'),
+    'Eclipxe\\XmlSchemaValidator\\' => array($vendorDir . '/eclipxe/xmlschemavalidator/src'),
+    'Eclipxe\\MicroCatalog\\' => array($vendorDir . '/eclipxe/micro-catalog/src'),
+    'Eclipxe\\Enum\\' => array($vendorDir . '/eclipxe/enum/src'),
+    'CfdiUtils\\' => array($vendorDir . '/eclipxe/cfdiutils/src/CfdiUtils'),
 );

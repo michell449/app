@@ -1,0 +1,33 @@
+[2025-10-24 11:25:37] Error autenticando FIEL o iniciando servicio - {"error":"Class \"PhpCfdi\\SatWsDescargaMasiva\\RequestBuilder\\FielRequestBuilder\\Fiel\" not found"}
+[2025-10-24 11:31:52] Error autenticando FIEL o iniciando servicio - {"error":"Class \"PhpCfdi\\SatWsDescargaMasiva\\RequestBuilder\\FielRequestBuilder\\Fiel\" not found"}
+[2025-10-24 12:08:53] Error autenticando FIEL o iniciando servicio - {"error":"Class \"PhpCfdi\\SatWsDescargaMasiva\\RequestBuilder\\FielRequestBuilder\\Fiel\" not found"}
+[2025-10-24 12:09:33] Error autenticando FIEL o iniciando servicio - {"error":"Class \"PhpCfdi\\SatWsDescargaMasiva\\RequestBuilder\\FielRequestBuilder\\Fiel\" not found"}
+[2025-10-24 12:10:20] Error autenticando FIEL o iniciando servicio - {"error":"Class \"PhpCfdi\\SatWsDescargaMasiva\\RequestBuilder\\FielRequestBuilder\\Fiel\" not found"}
+[2025-10-24 12:10:44] Error autenticando FIEL o iniciando servicio - {"error":"Class \"PhpCfdi\\SatWsDescargaMasiva\\RequestBuilder\\FielRequestBuilder\\Fiel\" not found"}
+[2025-10-24 12:13:55] Error autenticando FIEL o iniciando servicio - {"error":"Class \"PhpCfdi\\SatWsDescargaMasiva\\RequestBuilder\\FielRequestBuilder\\Fiel\" not found"}
+[2025-10-24 12:14:45] Error autenticando FIEL o iniciando servicio - {"error":"Class \"PhpCfdi\\SatWsDescargaMasiva\\RequestBuilder\\FielRequestBuilder\\Fiel\" not found"}
+[2025-10-24 12:53:15] Error autenticando FIEL o iniciando servicio - {"error":"Class \"Eclipxe\\Enum\\Enum\" not found"}
+[2025-10-24 12:57:40] Error autenticando FIEL o iniciando servicio - {"error":"Class \"Eclipxe\\Enum\\Enum\" not found"}
+[2025-10-24 13:02:39] Error autenticando FIEL o iniciando servicio - {"error":"Class \"Eclipxe\\Enum\\Enum\" not found"}
+[2025-10-24 13:04:09] Error autenticando FIEL o iniciando servicio - {"error":"Class \"Eclipxe\\Enum\\Enum\" not found"}
+[2025-10-24 13:06:06] Error autenticando FIEL o iniciando servicio - {"error":"Interface \"Psr\\Http\\Client\\ClientInterface\" not found"}
+[2025-10-24 13:06:59] Error autenticando FIEL o iniciando servicio - {"error":"Interface \"Psr\\Http\\Client\\ClientInterface\" not found"}
+[2025-10-24 13:10:53] Iniciando solicitud de autenticación al SAT - {"rfc":"ADX220314QI2"}
+[2025-10-24 13:10:54] Error autenticando FIEL o iniciando servicio - {"error":"Class \"GuzzleHttp\\Psr7\\Utils\" not found"}
+[2025-10-24 13:11:18] Iniciando solicitud de autenticación al SAT - {"rfc":"ADX220314QI2"}
+[2025-10-24 13:11:18] Error autenticando FIEL o iniciando servicio - {"error":"Class \"GuzzleHttp\\Psr7\\Utils\" not found"}
+[2025-10-24 13:11:38] Iniciando solicitud de autenticación al SAT - {"rfc":"ADX220314QI2"}
+[2025-10-24 13:11:38] Error autenticando FIEL o iniciando servicio - {"error":"Class \"GuzzleHttp\\Psr7\\Utils\" not found"}
+[2025-10-24 13:14:22] Iniciando solicitud de autenticación al SAT - {"rfc":"ADX220314QI2"}
+[2025-10-24 13:14:22] Error autenticando FIEL o iniciando servicio - {"error":"Class \"GuzzleHttp\\Promise\\Create\" not found"}
+[2025-10-24 13:14:25] Iniciando solicitud de autenticación al SAT - {"rfc":"ADX220314QI2"}
+[2025-10-24 13:14:25] Error autenticando FIEL o iniciando servicio - {"error":"Class \"GuzzleHttp\\Promise\\Create\" not found"}
+[2025-10-24 13:15:03] Iniciando solicitud de autenticación al SAT - {"rfc":"ADX220314QI2"}
+[2025-10-24 13:15:06] Autenticación exitosa y Token obtenido - {"rfc":"ADX220314QI2","expires":"2025-10-24 13:20:05","token_value_snippet":"eyJhbGciOiJodHR..."}
+[2025-10-24 15:09:39] Iniciando solicitud de autenticación al SAT - {"rfc":"ADX220314QI2"}
+[2025-10-24 15:09:40] Autenticación exitosa y Token obtenido - {"rfc":"ADX220314QI2","expires":"2025-10-24 15:14:40","token_value_snippet":"eyJhbGciOiJodHR..."}
+[2025-10-24 15:12:04] Iniciando solicitud de autenticación al SAT - {"rfc":"ADX220314QI2"}
+[2025-10-24 15:12:05] Autenticación exitosa y Token obtenido - {"rfc":"ADX220314QI2","expires":"2025-10-24 15:17:05","token_value_snippet":"eyJhbGciOiJodHR..."}
+[2025-10-24 15:24:22] Error autenticando FIEL o iniciando servicio - {"error":"Class \"PhpCfdi\\SatWsDescargaMasiva\\RequestBuilder\\FielRequestBuilder\\Fiel\" not found"}
+[2025-10-24 15:24:35] Iniciando solicitud de autenticación al SAT - {"rfc":"ADX220314QI2"}
+[2025-10-24 15:24:35] Autenticación exitosa y Token obtenido - {"rfc":"ADX220314QI2","expires":"2025-10-24 15:29:35","token_value_snippet":"eyJhbGciOiJodHR..."}

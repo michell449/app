@@ -12,8 +12,8 @@ ini_set('error_log', __DIR__ . '/../logs/php_error.log');
 header('Content-Type: application/json; charset=utf-8');
 
 // Carga de autoload.php
-$autoloadPrimary = __DIR__ . '/../vendor/autoload.php';
-$autoloadFallback = dirname(__DIR__) . '/vendor/autoload.php';
+$autoloadPrimary = __DIR__ . '/autoload-phpcfdi.php';
+$autoloadFallback = dirname(__DIR__) . '/core/autoload-phpcfdi.php';
 if (file_exists($autoloadPrimary)) {
     require_once $autoloadPrimary;
 } elseif (file_exists($autoloadFallback)) {

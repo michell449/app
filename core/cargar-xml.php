@@ -1,7 +1,7 @@
 <?php
 // app-m/core/cargar-xml.php
 
-require_once __DIR__ . "/../config.php";
+require_once __DIR__ . "/class/db.php";
 header('Content-Type: application/json; charset=utf-8');
 
 ini_set('display_errors', 1);

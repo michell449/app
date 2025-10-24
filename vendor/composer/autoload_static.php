@@ -4,32 +4,141 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInit2185d2f99bcd56787481d9357a5972d3
+class ComposerStaticInite402ca90c048a4cdb1ba3bd8b21d0bf0
 {
+    public static $files = array (
+        'a4a119a56e50fbb293281d9a48007e0e' => __DIR__ . '/..' . '/symfony/polyfill-php80/bootstrap.php',
+    );
+
     public static $prefixLengthsPsr4 = array (
+        'X' => 
+        array (
+            'XmlResourceRetriever\\' => 21,
+        ),
+        'S' => 
+        array (
+            'Symfony\\Polyfill\\Php80\\' => 23,
+            'Symfony\\Component\\Process\\' => 26,
+            'Spipu\\Html2Pdf\\' => 15,
+        ),
         'P' => 
         array (
-            'PHPMailer\\PHPMailer\\' => 20,
+            'PhpCfdi\\SatWsDescargaMasiva\\' => 28,
+            'PhpCfdi\\Rfc\\' => 12,
+            'PhpCfdi\\Credentials\\' => 20,
+            'PhpCfdi\\CfdiToPdf\\' => 18,
+            'PhpCfdi\\CfdiCleaner\\' => 20,
+        ),
+        'M' => 
+        array (
+            'Michell\\SatWsDescargaMasivaMain\\' => 32,
+        ),
+        'L' => 
+        array (
+            'League\\Plates\\' => 14,
+        ),
+        'E' => 
+        array (
+            'Eclipxe\\XmlSchemaValidator\\' => 27,
+            'Eclipxe\\MicroCatalog\\' => 21,
+            'Eclipxe\\Enum\\' => 13,
+        ),
+        'C' => 
+        array (
+            'CfdiUtils\\' => 10,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'PHPMailer\\PHPMailer\\' => 
+        'XmlResourceRetriever\\' => 
         array (
-            0 => __DIR__ . '/..' . '/phpmailer/phpmailer/src',
+            0 => __DIR__ . '/..' . '/eclipxe/xmlresourceretriever/src/XmlResourceRetriever',
+        ),
+        'Symfony\\Polyfill\\Php80\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/symfony/polyfill-php80',
+        ),
+        'Symfony\\Component\\Process\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/symfony/process',
+        ),
+        'Spipu\\Html2Pdf\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/spipu/html2pdf/src',
+        ),
+        'PhpCfdi\\SatWsDescargaMasiva\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/phpcfdi/sat-ws-descarga-masiva/src',
+        ),
+        'PhpCfdi\\Rfc\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/phpcfdi/rfc/src',
+        ),
+        'PhpCfdi\\Credentials\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/phpcfdi/credentials/src',
+        ),
+        'PhpCfdi\\CfdiToPdf\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/phpcfdi/cfditopdf/src',
+        ),
+        'PhpCfdi\\CfdiCleaner\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/phpcfdi/cfdi-cleaner/src',
+        ),
+        'Michell\\SatWsDescargaMasivaMain\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src',
+        ),
+        'League\\Plates\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/league/plates/src',
+        ),
+        'Eclipxe\\XmlSchemaValidator\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/eclipxe/xmlschemavalidator/src',
+        ),
+        'Eclipxe\\MicroCatalog\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/eclipxe/micro-catalog/src',
+        ),
+        'Eclipxe\\Enum\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/eclipxe/enum/src',
+        ),
+        'CfdiUtils\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/eclipxe/cfdiutils/src/CfdiUtils',
         ),
     );
 
     public static $classMap = array (
+        'Attribute' => __DIR__ . '/..' . '/symfony/polyfill-php80/Resources/stubs/Attribute.php',
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
+        'Datamatrix' => __DIR__ . '/..' . '/tecnickcom/tcpdf/include/barcodes/datamatrix.php',
+        'PDF417' => __DIR__ . '/..' . '/tecnickcom/tcpdf/include/barcodes/pdf417.php',
+        'PhpToken' => __DIR__ . '/..' . '/symfony/polyfill-php80/Resources/stubs/PhpToken.php',
+        'QRcode' => __DIR__ . '/..' . '/tecnickcom/tcpdf/include/barcodes/qrcode.php',
+        'Stringable' => __DIR__ . '/..' . '/symfony/polyfill-php80/Resources/stubs/Stringable.php',
+        'TCPDF' => __DIR__ . '/..' . '/tecnickcom/tcpdf/tcpdf.php',
+        'TCPDF2DBarcode' => __DIR__ . '/..' . '/tecnickcom/tcpdf/tcpdf_barcodes_2d.php',
+        'TCPDFBarcode' => __DIR__ . '/..' . '/tecnickcom/tcpdf/tcpdf_barcodes_1d.php',
+        'TCPDF_COLORS' => __DIR__ . '/..' . '/tecnickcom/tcpdf/include/tcpdf_colors.php',
+        'TCPDF_FILTERS' => __DIR__ . '/..' . '/tecnickcom/tcpdf/include/tcpdf_filters.php',
+        'TCPDF_FONTS' => __DIR__ . '/..' . '/tecnickcom/tcpdf/include/tcpdf_fonts.php',
+        'TCPDF_FONT_DATA' => __DIR__ . '/..' . '/tecnickcom/tcpdf/include/tcpdf_font_data.php',
+        'TCPDF_IMAGES' => __DIR__ . '/..' . '/tecnickcom/tcpdf/include/tcpdf_images.php',
+        'TCPDF_STATIC' => __DIR__ . '/..' . '/tecnickcom/tcpdf/include/tcpdf_static.php',
+        'UnhandledMatchError' => __DIR__ . '/..' . '/symfony/polyfill-php80/Resources/stubs/UnhandledMatchError.php',
+        'ValueError' => __DIR__ . '/..' . '/symfony/polyfill-php80/Resources/stubs/ValueError.php',
     );
 
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInit2185d2f99bcd56787481d9357a5972d3::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInit2185d2f99bcd56787481d9357a5972d3::$prefixDirsPsr4;
-            $loader->classMap = ComposerStaticInit2185d2f99bcd56787481d9357a5972d3::$classMap;
+            $loader->prefixLengthsPsr4 = ComposerStaticInite402ca90c048a4cdb1ba3bd8b21d0bf0::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInite402ca90c048a4cdb1ba3bd8b21d0bf0::$prefixDirsPsr4;
+            $loader->classMap = ComposerStaticInite402ca90c048a4cdb1ba3bd8b21d0bf0::$classMap;
 
         }, null, ClassLoader::class);
     }

@@ -1,6 +1,6 @@
 <?php
 // finalizar-proceso.php
-require_once __DIR__ . '/config.php'; // Para iniciar la sesión
+require_once __DIR__ . '/autoload-phpcfdi.php'; // Para iniciar la sesión
 
 
 $rfc_a_limpiar = 'ASY120705C39'; // Deberías obtenerlo de la solicitud o del usuario

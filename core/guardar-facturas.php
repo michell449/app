@@ -1,7 +1,7 @@
 <?php
 // app-m/core/guardar-facturas.php
-require_once __DIR__ . "/../vendor/autoload.php";
-require_once __DIR__ . "/../config.php"; // $conn (mysqli)
+require_once __DIR__ . "/autoload-phpcfdi.php";
+require_once __DIR__ . "/class/db.php";
 header('Content-Type: application/json; charset=utf-8');
 
 

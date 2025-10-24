@@ -1,6 +1,6 @@
 <?php
 // core/descargar-paquete-sat.php
-require_once __DIR__ . '/../vendor/autoload.php';
+require_once __DIR__ . '/autoload-phpcfdi.php';
 require_once __DIR__ . '/class/db.php';
 
 use PhpCfdi\SatWsDescargaMasiva\RequestBuilder\FielRequestBuilder\Fiel;
