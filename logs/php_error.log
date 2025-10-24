@@ -8,3 +8,4 @@
 [24-Oct-2025 23:23:58 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\app\config.php on line 3
 [24-Oct-2025 23:24:13 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\app\config.php on line 3
 [24-Oct-2025 23:24:40 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\app\config.php on line 3
+[24-Oct-2025 23:54:12 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\app\config.php on line 3
