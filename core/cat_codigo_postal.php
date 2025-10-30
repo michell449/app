@@ -62,6 +62,7 @@ try{
         ['20266', 'Jardines del Sol', 'Fraccionamiento', 'Aguascalientes', 'Aguascalientes', 'Aguascalientes', '20293'],
         ['20266', 'La Cruz', 'Colonia', 'Aguascalientes', 'Aguascalientes', 'Aguascalientes', '20293'],
         ['20266', 'Misión de Santa Fe', 'Colonia', 'Aguascalientes', 'Aguascalientes', 'Aguascalientes', '20293']
+        
     ];
 }catch (PDOException $e) {
     $errores[] = 'cat_productos: ' . $e->getMessage();

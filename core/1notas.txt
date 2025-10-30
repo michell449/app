@@ -1,0 +1,500 @@
+['20126	Los Ángeles	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20001']
+['20126	Villas de Don Antonio	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascali']entes	20001']
+['20126	Capittala	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20001']
+['20126	Recinto de la Macarena	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascali']entes	20001']
+['20126	Nápoli	Condominio	Aguascalientes	Aguascalientes	Aguascalientes	20001']
+['20126	Bonafortuna	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascaliente']s	20001']
+['20126	La Soledad	Rancho	Aguascalientes	Aguascalientes	Aguascalientes	20001']
+['20126	Dellaterra	Condominio	Aguascalientes	Aguascalientes	Aguascalientes	2']0001']
+['20126	Los Naranjos	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascali']ente']s	20001']
+['20126	Villa de Nuestra Señora de La Asunción Sector Guadalupe	Fraccionamiento	Aguas']caliente']s	Aguascalientes	Aguascalientes	20001']
+['20126	Villa Teresa	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20001']
+['20126	Cartagena 1947	Condominio	Aguascalientes	Aguascalientes	Aguascalientes	20001']
+['20126	Villas de La Convención	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20126	Lomas de La Asunción	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20126	Villa de Nuestra Señora de La Asunción Sector Encino	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20126	Villa de Nuestra Señora de La Asunción Sector Alameda	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20126	San José de Pozo Bravo	Condominio	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20126	Villa de Nuestra Señora de La Asunción Sector San Marcos	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20126	Villa de Nuestra Señora de La Asunción Sector Estación	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20126	Residencial Las Plazas	Condominio	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20126	El Rosedal	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20126	Natura	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20126	Montebello Della Stanza	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20126	Villa Notre Dame	Condominio	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20126	Privada Guadalupe	Condominio	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20126	Rinconada Pozo Bravo	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20126	Pozo Bravo Sur	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20126	Villa Loma Dorada	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20126	Jardines de Montebello	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20126	Villas del Río	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20126	El Puertecito	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20126	Rinconada del Puertecito	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20127	Bosques del Prado Norte	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20128	Sartenejo	Rancho	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20129	Lomas del Campestre 1a Sección	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20130	Bosques del Prado Sur	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20130	El Roble	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20130	Fátima	Colonia	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20130	Independencia de México	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20130	Nueva Rinconada	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20130	Primo Verdad	Colonia	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20130	San José del Arenal	Colonia	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20130	Unidad Ganadera	Colonia	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20130	San Xavier	Condominio	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20130	Residencial del Real	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20130	Puerta Navarra	Condominio	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20130	Residencial Campestre Club de Golf	Condominio	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20130	Palma Real	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20130	Muralia	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20135	Agropecuario	Zona comercial	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20135	Centro Distribuidor de Básicos	Zona comercial	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20136	La Rinconada	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20137	El Plateado	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20138	Residencial Pulgas Pandas Norte	Condominio	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20138	Residencial Pulgas Pandas Sur	Condominio	Aguascalientes	Aguascalientes	Aguascalientes	20001
+['20277	Pirámides	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20277	Residencial del Parque	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20277	Rinconada del Parque	Condominio	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20278	Jardines de las Fuentes	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20280	Casa Solida	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20280	Central de Abastos	Zona comercial	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20280	Jardines del Sur	Colonia	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20280	Martínez Domínguez	Colonia	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20280	Prados de Villasunción	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20280	Prados del Sur	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20280	San Francisco del Arenal	Colonia	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20280	San Pedro	Colonia	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20280	Torres de San Francisco	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20280	Trojes del Sur	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20280	Australis	Condominio	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20280	Conjunto San Francisco	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20280	Villas de San José	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20280	Bosques Providencia	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20283	Kerarta	Condominio	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20283	Parque Industrial Siglo XXI	Zona industrial	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20284	La Casita	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20284	La Estancia	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20284	INFONAVIT Potreros del Oeste	Unidad habitacional	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20284	Villas de Santa Rosa	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20284	Villas del Oeste	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20284	Vistas del Sur	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20284	Rinconada del Sur	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20284	Villas del Encino	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20285	Versalles 1a Sección	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20285	Versalles 2a Sección	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20286	Bosque Real	Condominio	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20286	Rancho Santa Mónica	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20286	Vicente Guerrero	Colonia	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20286	Villas del Pilar 1a Sección	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20286	Barlovento	Condominio	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20286	Abadía	Condominio	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20286	Mangata	Condominio	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20286	Caranday	Condominio	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20286	Amura	Condominio	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20286	Luzia	Condominio	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20286	Reserva Santa Mónica	Condominio	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20286	Villas San Antonio	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20286	Providencia	Condominio	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20286	Rinconada Santa Mónica	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20286	Paseos de Santa Mónica	Condominio	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20287	Insurgentes	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20288	Bulevares 1a. Sección	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20288	Bulevares 2a. Sección	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20289	Pilar Blanco INFONAVIT	Unidad habitacional	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20290	Ciudad Industrial	Zona industrial	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20290	Vista Alegre	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20290	Parque Industrial ALTEC	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20296	Rústicos Calpulli	Fraccionamiento	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20296	Reserva San Matías	Condominio	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20296	Villas de Bonaterra	Condominio	Aguascalientes	Aguascalientes	Aguascalientes	20293
+['20955	La Mesa del Contadero (El Contadero)	Ranchería	Jesús María	Aguascalientes	 	20999
+['20955	San Rafael	Ranchería	Jesús María	Aguascalientes	 	20999
+['20956	Piedras Negras	Ranchería	Jesús María	Aguascalientes	 	20999
+['20956	El Conejo (Puerta del Llano)	Ranchería	Jesús María	Aguascalientes	 	20999
+['20957	Lomas de San Isidro	Ranchería	Jesús María	Aguascalientes	 	20999
+['20957	Pedernal Primero	Ranchería	Jesús María	Aguascalientes	 	20999
+['20957	El Rincón de la Virgen (El Rincón)	Ranchería	Jesús María	Aguascalientes	 	20999
+['20970	Tapias Viejas	Ejido	Jesús María	Aguascalientes	 	20999
+['20970	Puente de Villalpando (El Puente)	Ranchería	Jesús María	Aguascalientes	 	20999
+['20974	Puentes Cuates	Ranchería	Jesús María	Aguascalientes	 	20999
+['20983	Real del Molino	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20983	Mezquital del Country	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20983	Marabella Residencial	Condominio	Jesús María	Aguascalientes	 	20921
+['20983	El Llano	Colonia	Jesús María	Aguascalientes	 	20921
+['20983	Trojes del Pedregal	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20983	Rinconada Maravillas	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20983	Residencial Trojes del Norte	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20983	Residencial Trojes del Norte II	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20983	Residencial Antiguo Country	Condominio	Jesús María	Aguascalientes	 	20921
+['20984	Villa Natty Residencial	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20984	Andrea	Condominio	Jesús María	Aguascalientes	 	20921
+['20984	Providencia	Colonia	Jesús María	Aguascalientes	 	20921
+['20990	General Ignacio Zaragoza (Venadero)	Pueblo	Jesús María	Aguascalientes	 	20999
+['20990	Buenavista	Ranchería	Jesús María	Aguascalientes	 	20999
+['20994	Cieneguitas	Pueblo	Jesús María	Aguascalientes	 	20999
+['20994	Villas de Montegrande	Colonia	Jesús María	Aguascalientes	 	20999
+['20994	Villas de Monteclaro	Colonia	Jesús María	Aguascalientes	 	20999
+['20994	La Tomatina	Ejido	Jesús María	Aguascalientes	 	20999
+['20995	Agua Zarca	Ranchería	Jesús María	Aguascalientes	 	20999
+['20996	Jesús María	Ejido	Jesús María	Aguascalientes	 	20999
+['20996	El Refugio de los Arquitos	Ranchería	Jesús María	Aguascalientes	 	20999
+['20996	Los Arquitos	Ejido	Jesús María	Aguascalientes	 	20999
+['20996	El Chacho	Ranchería	Jesús María	Aguascalientes	 	20999
+['20996	La Primavera	Colonia	Jesús María	Aguascalientes	 	20999
+['20997	La Providencia (Sector 6)	Ranchería	Jesús María	Aguascalientes	 	20921
+['20997	St Ángelo Residence	Condominio	Jesús María	Aguascalientes	 	20921
+['20997	Vista Florencia	Condominio	Jesús María	Aguascalientes	 	20921
+['20997	Vista San Isidro	Condominio	Jesús María	Aguascalientes	 	20921
+['20997	Ruscello	Condominio	Jesús María	Aguascalientes	 	20921
+['20997	Q Campestre Residencial	Condominio	Jesús María	Aguascalientes	 	20921
+['20406	Rinconada de las Piedras	Fraccionamiento	Rincón de Romos	Aguascalientes	Rincón de Romos	20401
+['20406	Rinconada la Alameda	Fraccionamiento	Rincón de Romos	Aguascalientes	Rincón de Romos	20401
+['20406	De Chora	Barrio	Rincón de Romos	Aguascalientes	Rincón de Romos	20401
+['20406	Santa Cruz	Colonia	Rincón de Romos	Aguascalientes	Rincón de Romos	20401
+['20406	Lázaro Cárdenas	Fraccionamiento	Rincón de Romos	Aguascalientes	Rincón de Romos	20401
+['20406	Fraternidad	Fraccionamiento	Rincón de Romos	Aguascalientes	Rincón de Romos	20401
+['20406	Cerro del Gato	Colonia	Rincón de Romos	Aguascalientes	Rincón de Romos	20401
+['20410	Independencia	Colonia	Rincón de Romos	Aguascalientes	Rincón de Romos	20401
+['20410	Magisterial	Colonia	Rincón de Romos	Aguascalientes	Rincón de Romos	20401
+['20410	Magisterial II	Fraccionamiento	Rincón de Romos	Aguascalientes	Rincón de Romos	20401
+['20410	Santa Anita	Colonia	Rincón de Romos	Aguascalientes	Rincón de Romos	20401
+['20410	El Potrero	Fraccionamiento	Rincón de Romos	Aguascalientes	Rincón de Romos	20401
+['20410	La Mezquitera	Condominio	Rincón de Romos	Aguascalientes	Rincón de Romos	20401
+['20414	Villas de Jesús	Fraccionamiento	Rincón de Romos	Aguascalientes	Rincón de Romos	20401
+['20415	Fundadores	Fraccionamiento	Rincón de Romos	Aguascalientes	Rincón de Romos	20401
+['20415	San José	Colonia	Rincón de Romos	Aguascalientes	Rincón de Romos	20401
+['20416	La Haciendita	Fraccionamiento	Rincón de Romos	Aguascalientes	Rincón de Romos	20401
+['20416	Presa de San Elías (José Muñoz)	Ranchería	Rincón de Romos	Aguascalientes	 	20401
+['20416	Presidentes de México	Colonia	Rincón de Romos	Aguascalientes	Rincón de Romos	20401
+['20416	Solidaridad	Fraccionamiento	Rincón de Romos	Aguascalientes	Rincón de Romos	20401
+['20417	Miguel Hidalgo	Fraccionamiento	Rincón de Romos	Aguascalientes	Rincón de Romos	20401
+['20417	Popular	Fraccionamiento	Rincón de Romos	Aguascalientes	Rincón de Romos	20401
+['20420	Pablo Escaleras	Colonia	Rincón de Romos	Aguascalientes	 	20401
+['20420	El Saucillo	Ejido	Rincón de Romos	Aguascalientes	 	20401
+['20420	El Bajío	Ejido	Rincón de Romos	Aguascalientes	 	20401
+['20420	Mar Negro	Ranchería	Rincón de Romos	Aguascalientes	 	20401
+['20420	Estación Rincón de Romos	Ranchería	Rincón de Romos	Aguascalientes	 	20401
+['20423	San Judas Tadeo (Santa Fe)	Colonia	Rincón de Romos	Aguascalientes	 	20401
+['20424	Puerta del Muerto (El 15)	Ranchería	Rincón de Romos	Aguascalientes	 	20401
+['20424	California	Ranchería	Rincón de Romos	Aguascalientes	 	20401
+['20424	Bajío del Yerbaníz	Ranchería	Rincón de Romos	Aguascalientes	 	20401
+['20424	Tanque Blanco	Ranchería	Rincón de Romos	Aguascalientes	 	20401
+['20424	El Tarasco I (Potrero)	Ranchería	Rincón de Romos	Aguascalientes	 	20401
+['20425	San Jacinto	Ejido	Rincón de Romos	Aguascalientes	 	20401
+['20426	San Juan de la Natura	Ejido	Rincón de Romos	Aguascalientes	 	20401
+['20426	16 de Septiembre	Colonia	Rincón de Romos	Aguascalientes	 	20401
+['20427	El Valle de las Delicias	Colonia	Rincón de Romos	Aguascalientes	 	20401
+['20427	Los Morales	Colonia	Rincón de Romos	Aguascalientes	 	20401
+['20427	San Isidro el Labrador	Ranchería	Rincón de Romos	Aguascalientes	 	20401
+['20434	18 de Marzo	Colonia	Rincón de Romos	Aguascalientes	 	20671
+['20435	El Salitrillo	Colonia	Rincón de Romos	Aguascalientes	 	20401
+['20435	La Misión	Ranchería	Rincón de Romos	Aguascalientes	 	20401
+['20435	Candelaria	Granja	Rincón de Romos	Aguascalientes	 	20401
+['20435	El Barzón	Ranchería	Rincón de Romos	Aguascalientes	 	20401
+['20435	Las Norias	Ranchería	Rincón de Romos	Aguascalientes	 	20401
+['20435	Lupita	Granja	Rincón de Romos	Aguascalientes	 	20401
+['20437	Constitución	Colonia	Rincón de Romos	Aguascalientes	 	20671
+['20437	Héctor Hugo Olivares	Colonia	Rincón de Romos	Aguascalientes	 	20671
+['20437	Lindavista	Colonia	Rincón de Romos	Aguascalientes	 	20671
+['20437	Canal Grande	Ranchería	Rincón de Romos	Aguascalientes	 	20671
+['20437	Potrero San Isidro	Colonia	Rincón de Romos	Aguascalientes	 	20671
+['20437	Las Antenas	Colonia	Rincón de Romos	Aguascalientes	 	20671
+['20437	Pabellón de Hidalgo [Ejido Ex-Hacienda]	Ejido	Rincón de Romos	Aguascalientes	 	20671
+['20437	El Milagro	Colonia	Rincón de Romos	Aguascalientes	 	20671
+['20437	Pabellón de Hidalgo Centro	Colonia	Rincón de Romos	Aguascalientes	 	20671
+['20437	Estancia de Mosqueira	Ejido	Rincón de Romos	Aguascalientes	 	20671
+['20437	El Rosario	Granja	Rincón de Romos	Aguascalientes	 	20671
+['20440	Morelos	Ranchería	Rincón de Romos	Aguascalientes	 	20401
+['20444	Las Camas	Ranchería	Rincón de Romos	Aguascalientes	 	20401
+['20444	Potrerillos	Ranchería	Rincón de Romos	Aguascalientes	 	20401
+['20444	Túnel de Potrerillo	Ranchería	Rincón de Romos	Aguascalientes	 	20401
+['20450	El Ajiladero	Ranchería	Rincón de Romos	Aguascalientes	 	20401
+['20450	El Panal	Ejido	Rincón de Romos	Aguascalientes	 	20401
+['20450	Fresnillo	Ejido	Rincón de Romos	Aguascalientes	 	20401
+['20450	La Boquilla	Ranchería	Rincón de Romos	Aguascalientes	 	20401
+['20450	Peña Blanca	Ranchería	Rincón de Romos	Aguascalientes	 	20401
+['20834	El Llano de López	Colonia	Calvillo	Aguascalientes	 	20801
+['20834	El Morancillo (Los Arcos)	Ranchería	Calvillo	Aguascalientes	 	20801
+['20834	Colomos	Ranchería	Calvillo	Aguascalientes	 	20801
+['20834	Catana	Ranchería	Calvillo	Aguascalientes	 	20801
+['20834	El Cuervero (Cuerveros)	Pueblo	Calvillo	Aguascalientes	 	20801
+['20834	Malpaso	Pueblo	Calvillo	Aguascalientes	 	20801
+['20834	Ojocaliente	Colonia	Calvillo	Aguascalientes	 	20801
+['20834	Potrero de los López	Ranchería	Calvillo	Aguascalientes	 	20801
+['20834	Tepezalilla de Abajo	Ranchería	Calvillo	Aguascalientes	 	20801
+['20834	La Fragua	Ranchería	Calvillo	Aguascalientes	 	20801
+['20834	El Jaralito	Ranchería	Calvillo	Aguascalientes	 	20801
+['20834	La Fortuna	Colonia	Calvillo	Aguascalientes	 	20801
+['20834	Los Arcos	Colonia	Calvillo	Aguascalientes	 	20801
+['20834	Magisterial	Colonia	Calvillo	Aguascalientes	 	20801
+['20835	Río Gil	Ranchería	Calvillo	Aguascalientes	 	20801
+['20835	Río Gil de Arriba	Ranchería	Calvillo	Aguascalientes	 	20801
+['20836	Guajolotes (Huijolotes)	Ranchería	Calvillo	Aguascalientes	 	20801
+['20836	El Capulín	Ranchería	Calvillo	Aguascalientes	 	20801
+['20836	Montoro	Ranchería	Calvillo	Aguascalientes	 	20801
+['20836	Mesa de los Pozos (La Laguna)	Ranchería	Calvillo	Aguascalientes	 	20801
+['20840	Los Mirasoles	Ranchería	Calvillo	Aguascalientes	 	20801
+['20842	Las Joyas	Ranchería	Calvillo	Aguascalientes	 	20801
+['20842	San José de los Laureles	Ranchería	Calvillo	Aguascalientes	 	20801
+['20844	Chimaltitán	Ranchería	Calvillo	Aguascalientes	 	20801
+['20850	Crucero las Pilas	Ranchería	Calvillo	Aguascalientes	 	20801
+['20850	Las Moras	Ranchería	Calvillo	Aguascalientes	 	20801
+['20850	Mesa Grande	Ranchería	Calvillo	Aguascalientes	 	20801
+['20850	El Refugio (Las Praderas)	Ranchería	Calvillo	Aguascalientes	 	20801
+['20850	Pozo de los Artistas	Colonia	Calvillo	Aguascalientes	 	20801
+['20852	Ejido Calvillo (El Polvorín Sector Benito Juárez)	Ranchería	Calvillo	Aguascalientes	 	20801
+['20852	Los Adobes	Ranchería	Calvillo	Aguascalientes	 	20801
+['20852	Arroyo Ojocalientillo	Ranchería	Calvillo	Aguascalientes	 	20801
+['20854	Parque Industrial Calvillo	Zona industrial	Calvillo	Aguascalientes	 	20801
+['20854	El Tepetate de Arriba	Ranchería	Calvillo	Aguascalientes	 	20801
+['20854	La Calixtina	Ranchería	Calvillo	Aguascalientes	 	20801
+['20854	El Tepetate de Abajo	Ranchería	Calvillo	Aguascalientes	 	20801
+['20854	Ojo de Agua	Ranchería	Calvillo	Aguascalientes	 	20801
+['20854	Barranca del Roble	Ranchería	Calvillo	Aguascalientes	 	20801
+['20854	El Taray	Rancho	Calvillo	Aguascalientes	 	20801
+['20855	Los Alisos	Ranchería	Calvillo	Aguascalientes	 	20801
+['20855	El Garruño	Ranchería	Calvillo	Aguascalientes	 	20801
+['20856	El Güencho	Ranchería	Calvillo	Aguascalientes	 	20801
+['20856	Jaltiche de Arriba	Ranchería	Calvillo	Aguascalientes	 	20801
+['20856	Mesa del Roble	Ranchería	Calvillo	Aguascalientes	 	20801
+['20860	Cerro Blanco	Ranchería	Calvillo	Aguascalientes	 	20801
+['20860	El Salitre	Ranchería	Calvillo	Aguascalientes	 	20801
+['20860	Las Ánimas	Ranchería	Calvillo	Aguascalientes	 	20801
+['20860	Las Pilas	Ranchería	Calvillo	Aguascalientes	 	20801
+['20860	Michoacanejo	Ranchería	Calvillo	Aguascalientes	 	20801
+['20860	El Tepalcate	Ranchería	Calvillo	Aguascalientes	 	20801
+['20862	Norias Cuatas	Rancho	Calvillo	Aguascalientes	 	20801
+['20862	Salitrillo	Ranchería	Calvillo	Aguascalientes	 	20801
+['20862	Jaltiche de Abajo	Ranchería	Calvillo	Aguascalientes	 	20801
+['20862	La Media Luna	Ranchería	Calvillo	Aguascalientes	 	20801
+['20862	La Rinconada	Ranchería	Calvillo	Aguascalientes	 	20801
+['20862	Las Tinajas	Ranchería	Calvillo	Aguascalientes	 	20801
+['20864	El Caracol	Ranchería	Calvillo	Aguascalientes	 	20801
+['20864	El Terrero del Refugio	Ranchería	Calvillo	Aguascalientes	 	20801
+['20864	Presa de los Serna	Ranchería	Calvillo	Aguascalientes	 	20801
+['20870	Arboledas de Calvillo	Fraccionamiento	Calvillo	Aguascalientes	 	20801
+['20870	El Papantón	Ranchería	Calvillo	Aguascalientes	 	20801
+['20870	El Rodeo	Ranchería	Calvillo	Aguascalientes	 	20801
+['20870	Los Patos	Ranchería	Calvillo	Aguascalientes	 	20801
+['20870	San José	Ranchería	Calvillo	Aguascalientes	 	20801
+['20870	Santos	Ranchería	Calvillo	Aguascalientes	 	20801
+['20870	Vaquerías	Ranchería	Calvillo	Aguascalientes	 	20801
+['20870	Barranca de Portales	Ranchería	Calvillo	Aguascalientes	 	20801
+['20872	Peña Blanca	Ranchería	Calvillo	Aguascalientes	 	20801
+['20872	El Tigre	Ranchería	Calvillo	Aguascalientes	 	20801
+['20872	Miguel Hidalgo (El Huarache)	Ranchería	Calvillo	Aguascalientes	 	20801
+['20872	Presa de los Bajíos	Ranchería	Calvillo	Aguascalientes	 	20801
+['20874	El Ocote [Banco de Tierra]	Ranchería	Calvillo	Aguascalientes	 	20801
+['20874	Las Trojes	Ranchería	Calvillo	Aguascalientes	 	20801
+['20874	Tanque de los Serna	Ranchería	Calvillo	Aguascalientes	 	20801
+['20874	La Ciénega	Ranchería	Calvillo	Aguascalientes	 	20801
+['20880	La Labor	Colonia	Calvillo	Aguascalientes	 	20801
+['20880	Temazcal	Ranchería	Calvillo	Aguascalientes	 	20801
+['20880	Paredes	Ranchería	Calvillo	Aguascalientes	 	20801
+['20880	La Hiedra	Ranchería	Calvillo	Aguascalientes	 	20801
+['20880	Ventanillas	Ranchería	Calvillo	Aguascalientes	 	20801
+['20880	El Salitrillo	Ranchería	Calvillo	Aguascalientes	 	20801
+['20882	Manguillas	Ranchería	Calvillo	Aguascalientes	 	20801
+['20900	Santo Domingo	Condominio	Jesús María	Aguascalientes	 	20921
+['20900	Puerta Norte	Condominio	Jesús María	Aguascalientes	 	20921
+['20900	Residencial Misión de San José	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20900	Residencial Campestre Ingles	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20900	Camino Real	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20900	Corral de Barrancos	Colonia	Jesús María	Aguascalientes	 	20921
+['20900	Maravillas	Colonia	Jesús María	Aguascalientes	 	20921
+['20900	Los Olivos	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20900	Residencial Villa Campestre	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20900	Valle Escondido	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20900	Las Pérgolas	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20900	La Nogalera	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20901	El Maguey	Colonia	Jesús María	Aguascalientes	 	20921
+['20901	Las Jaulas	Colonia	Jesús María	Aguascalientes	 	20921
+['20901	La Loma de Valladolid	Colonia	Jesús María	Aguascalientes	 	20921
+['20901	La Chaveña	Ranchería	Jesús María	Aguascalientes	 	20921
+['20903	Villas de Montecassino	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20903	Residencial Santa Paulina	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20903	La Florida	Ranchería	Jesús María	Aguascalientes	 	20921
+['20904	El Barreno	Colonia	Jesús María	Aguascalientes	 	20921
+['20904	Los Ramírez	Ranchería	Jesús María	Aguascalientes	 	20921
+['20904	Los Vázquez	Ranchería	Jesús María	Aguascalientes	 	20921
+['20905	Miravalle	Colonia	Jesús María	Aguascalientes	 	20921
+['20905	Paso Blanco	Colonia	Jesús María	Aguascalientes	 	20921
+['20905	Los Arenales	Ranchería	Jesús María	Aguascalientes	 	20921
+['20905	La Lomita de Paso Blanco (Las Canoas)	Colonia	Jesús María	Aguascalientes	 	20921
+['20905	Los Sauces	Ranchería	Jesús María	Aguascalientes	 	20921
+['20907	Viñedos Casa Leal	Ranchería	Jesús María	Aguascalientes	 	20921
+['20907	Stacia	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20907	Viñedos Eva (Fraccionamiento Paso Blanco)	Zona industrial	Jesús María	Aguascalientes	 	20921
+['20907	Viñedos Frutilandia	Ranchería	Jesús María	Aguascalientes	 	20921
+['20907	Paseos de Aguascalientes	Colonia	Jesús María	Aguascalientes	 	20921
+['20907	Arboledas de Paso Blanco	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20907	Central de Abastos Viñedos San Marcos	Zona comercial	Jesús María	Aguascalientes	 	20921
+['20907	Paseos del Country	Condominio	Jesús María	Aguascalientes	 	20921
+['20907	Residencial Campo Real	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20907	Jardines de Campo Real	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20908	Mayorazgo San Cristóbal	Condominio	Jesús María	Aguascalientes	 	20921
+['20908	Belmondo	Condominio	Jesús María	Aguascalientes	 	20921
+['20908	Residencial Marcellana	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20908	Rinconada Cuauhtémoc	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20908	Catania Spazio	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20908	Punta Norte	Condominio	Jesús María	Aguascalientes	 	20921
+['20908	Los Gavilanes	Ranchería	Jesús María	Aguascalientes	 	20921
+['20908	Nura	Condominio	Jesús María	Aguascalientes	 	20921
+['20908	Santa Isabel Tola	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20908	Bosques de los Ciprés	Condominio	Jesús María	Aguascalientes	 	20921
+['20908	Bosques del Paraíso I	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20908	Bosques del Paraíso II	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20908	Augusta	Condominio	Jesús María	Aguascalientes	 	20921
+['20908	Bosques del Paraíso VI	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20908	Bosques del Paraíso III	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20908	Bosques del Paraíso IV	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20908	Vivanta	Condominio	Jesús María	Aguascalientes	 	20921
+['20908	Zibá	Condominio	Jesús María	Aguascalientes	 	20921
+['20908	Porta Vitta Residencial	Condominio	Jesús María	Aguascalientes	 	20921
+['20908	Cartagena	Condominio	Jesús María	Aguascalientes	 	20921
+['20908	San Mateo	Condominio	Jesús María	Aguascalientes	 	20921
+['20908	Villas de San Pedro	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20908	Viña Real	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20908	Olena	Condominio	Jesús María	Aguascalientes	 	20921
+['20908	Reserva Cartagena	Condominio	Jesús María	Aguascalientes	 	20921
+['20908	Tepetates	Colonia	Jesús María	Aguascalientes	 	20921
+['20908	Trojes de San Cristóbal	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20908	Quintas de Monticello	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20908	Viña Antigua	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20908	Villas del Molino	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20908	Porta Real	Condominio	Jesús María	Aguascalientes	 	20921
+['20908	Residencial Cedros	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20908	Rancho San Miguel Residencial	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20908	Alcázar Residencial	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20908	Reserva San Cristóbal	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20908	La Arborada Residencial	Condominio	Jesús María	Aguascalientes	 	20921
+['20908	Privanza Gratamira	Condominio	Jesús María	Aguascalientes	 	20921
+['20908	Tierraverde (Habitat Gran Clase)	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20908	Andares	Condominio	Jesús María	Aguascalientes	 	20921
+['20909	INFONAVIT Margaritas	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20909	Villas del Sol	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20909	Valle de Margaritas	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20909	Saturnino Herran	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20909	Los Vázquez	Colonia	Jesús María	Aguascalientes	 	20921
+['20909	Parque Industrial Santa Fe Tecno Park	Zona industrial	Jesús María	Aguascalientes	 	20921
+['20909	Alea Park	Zona industrial	Jesús María	Aguascalientes	 	20921
+['20909	Parque Industrial Santa Clara	Zona industrial	Jesús María	Aguascalientes	 	20921
+['20909	Margaritas	Ranchería	Jesús María	Aguascalientes	 	20921
+['20909	Jesús Gómez Portugal (Margaritas)	Colonia	Jesús María	Aguascalientes	 	20921
+['20909	El Zapato	Colonia	Jesús María	Aguascalientes	 	20921
+['20909	Paseos Gómez Portugal	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20909	La Guayana (Rancho Seco)	Ejido	Jesús María	Aguascalientes	 	20921
+['20909	Paso de Argenta	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20910	Los Zarzales	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20910	San Antonio de los Horcones	Colonia	Jesús María	Aguascalientes	 	20921
+['20910	Brownsville	Colonia	Jesús María	Aguascalientes	 	20921
+['20913	Valladolid	Pueblo	Jesús María	Aguascalientes	 	20921
+['20913	El Refugio	Ejido	Jesús María	Aguascalientes	 	20921
+['20913	La Granjita (Los Palillos)	Ranchería	Jesús María	Aguascalientes	 	20921
+['20913	El Aurero	Ranchería	Jesús María	Aguascalientes	 	20921
+['20913	Villas de Guadalupe (La Malobra)	Colonia	Jesús María	Aguascalientes	 	20921
+['20913	El Cenizo	Colonia	Jesús María	Aguascalientes	 	20921
+['20915	Nueva	Colonia	Jesús María	Aguascalientes	 	20671
+['20916	Parque Industrial Chichimeco (PICH)	Zona industrial	Jesús María	Aguascalientes	 	20921
+['20916	Landa	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20916	El Chichimeco	Hacienda	Jesús María	Aguascalientes	 	20921
+['20916	Paseos de las Haciendas	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20916	La Cartuja	Fraccionamiento	Jesús María	Aguascalientes	 	20921
+['20917	Pedernal Segundo	Ranchería	Jesús María	Aguascalientes	 	20671
+['20920	Jesús María Centro	Colonia	Jesús María	Aguascalientes	Jesús María	20921
+['20922	Bellavista	Colonia	Jesús María	Aguascalientes	Jesús María	20921
+['20922	La Troje	Fraccionamiento	Jesús María	Aguascalientes	Jesús María	20921
+['20922	Rancho Seco	Colonia	Jesús María	Aguascalientes	Jesús María	20921
+['20922	Villas Gernika II	Fraccionamiento	Jesús María	Aguascalientes	Jesús María	20921
+['20922	Villas Gernika	Fraccionamiento	Jesús María	Aguascalientes	Jesús María	20921
+['20922	El Calvario	Colonia	Jesús María	Aguascalientes	Jesús María	20921
+['20922	La Escalera	Colonia	Jesús María	Aguascalientes	Jesús María	20921
+['20923	Rinconada Jesús María	Fraccionamiento	Jesús María	Aguascalientes	Jesús María	20921
+['20923	Real Campestre	Fraccionamiento	Jesús María	Aguascalientes	Jesús María	20921
+['20923	La Villa Residencial	Fraccionamiento	Jesús María	Aguascalientes	Jesús María	20921
+['20923	Los Álamos	Condominio	Jesús María	Aguascalientes	Jesús María	20921
+['20923	La Misión	Fraccionamiento	Jesús María	Aguascalientes	Jesús María	20921
+['20923	Flores Magón	Colonia	Jesús María	Aguascalientes	Jesús María	20921
+['20923	La Cardona	Colonia	Jesús María	Aguascalientes	Jesús María	20921
+['20923	La Cuesta	Fraccionamiento	Jesús María	Aguascalientes	Jesús María	20921
+['20923	Los Arroyitos	Colonia	Jesús María	Aguascalientes	Jesús María	20921
+['20923	San Miguelito	Colonia	Jesús María	Aguascalientes	Jesús María	20921
+['20923	Rinconada San Miguelito	Fraccionamiento	Jesús María	Aguascalientes	Jesús María	20921
+['20923	Ruiseñores	Condominio	Jesús María	Aguascalientes	Jesús María	20921
+['20923	Residencial Jesús María	Fraccionamiento	Jesús María	Aguascalientes	Jesús María	20921
+['20924	Cielo Claro	Colonia	Jesús María	Aguascalientes	Jesús María	20921
+['20924	Agua Clara	Fraccionamiento	Jesús María	Aguascalientes	Jesús María	20921
+['20650	Puerto de la Concepción	Ejido	Tepezalá	Aguascalientes	 	20401
+['20656	Carboneras	Ejido	Tepezalá	Aguascalientes	 	20671
+['20656	El Refugio	Ejido	Tepezalá	Aguascalientes	 	20671
+['20657	Arroyo Hondo	Ejido	Tepezalá	Aguascalientes	 	20401
+['20658	Berrendos	Rancho	Tepezalá	Aguascalientes	 	20401
+['20658	El Tepozán	Ranchería	Tepezalá	Aguascalientes	 	20401
+['20659	Caldera	Ejido	Tepezalá	Aguascalientes	 	20671
+['20663	El Refugio	Ranchería	Pabellón de Arteaga	Aguascalientes	 	20671
+['20663	El Gigante	Granja	Pabellón de Arteaga	Aguascalientes	 	20671
+['20665	Emiliano Zapata	Colonia	Pabellón de Arteaga	Aguascalientes	 	20671
+['20665	El Pedernal Segundo	Ranchería	Pabellón de Arteaga	Aguascalientes	 	20671
+['20665	San Agustín de los Puentes	Ranchería	Pabellón de Arteaga	Aguascalientes	 	20671
+['20665	El Pilar	Granja	Pabellón de Arteaga	Aguascalientes	 	20671
+['20665	Los Contreras	Ranchería	Pabellón de Arteaga	Aguascalientes	 	20671
+['20666	El Garabato	Ranchería	Pabellón de Arteaga	Aguascalientes	 	20671
+['20666	Campestre San Carlos	Fraccionamiento	Pabellón de Arteaga	Aguascalientes	 	20671
+['20667	Santiago	Ejido	Pabellón de Arteaga	Aguascalientes	 	20671
+['20667	Ampliación Ejido Garabato	Ranchería	Pabellón de Arteaga	Aguascalientes	 	20671
+['20667	El Canal	Ranchería	Pabellón de Arteaga	Aguascalientes	 	20671
+['20668	El Pedregal	Ranchería	Pabellón de Arteaga	Aguascalientes	 	20671
+['20668	El Milagro	Ranchería	Pabellón de Arteaga	Aguascalientes	 	20671
+['20668	Puerta del Milagro	Ranchería	Pabellón de Arteaga	Aguascalientes	 	20671
+['20668	San Luis de Letras	Ejido	Pabellón de Arteaga	Aguascalientes	 	20671
+['20668	Miguel Alemán [Secadora]	Ranchería	Pabellón de Arteaga	Aguascalientes	 	20671
+['20670	Pabellón de Arteaga Centro	Colonia	Pabellón de Arteaga	Aguascalientes	Pabellón de Arteaga	20671
+['20673	FOVISSSTE	Fraccionamiento	Pabellón de Arteaga	Aguascalientes	Pabellón de Arteaga	20671
+['20673	Jardines de Pabellón	Fraccionamiento	Pabellón de Arteaga	Aguascalientes	Pabellón de Arteaga	20671
+['20673	Haciendas de Pabellón	Conjunto habitacional	Pabellón de Arteaga	Aguascalientes	Pabellón de Arteaga	20671
+['20673	Barrio Industrial	Colonia	Pabellón de Arteaga	Aguascalientes	Pabellón de Arteaga	20671
+['20674	Río San Pedro	Colonia	Pabellón de Arteaga	Aguascalientes	Pabellón de Arteaga	20671
+['20674	Francisco Villa	Colonia	Pabellón de Arteaga	Aguascalientes	Pabellón de Arteaga	20671
+['20674	Villas de Pabellón	Colonia	Pabellón de Arteaga	Aguascalientes	Pabellón de Arteaga	20671
+['20674	Trojes de San Pedro	Fraccionamiento	Pabellón de Arteaga	Aguascalientes	Pabellón de Arteaga	20671
+['20675	Carboneras	Barrio	Pabellón de Arteaga	Aguascalientes	Pabellón de Arteaga	20671
+['20675	Palo Alto	Barrio	Pabellón de Arteaga	Aguascalientes	Pabellón de Arteaga	20671
+['20676	5 de Mayo	Colonia	Pabellón de Arteaga	Aguascalientes	Pabellón de Arteaga	20671
+['20676	Cosmos	Fraccionamiento	Pabellón de Arteaga	Aguascalientes	Pabellón de Arteaga	20671
+['20676	Popular	Fraccionamiento	Pabellón de Arteaga	Aguascalientes	Pabellón de Arteaga	20671
+['20677	Plutarco Elías Calles	Colonia	Pabellón de Arteaga	Aguascalientes	Pabellón de Arteaga	20671
+['20677	Progreso Sur	Colonia	Pabellón de Arteaga	Aguascalientes	Pabellón de Arteaga	20671
+['20678	Bosques de Pabellón	Fraccionamiento	Pabellón de Arteaga	Aguascalientes	Pabellón de Arteaga	20671
+['20678	Progreso Norte	Colonia	Pabellón de Arteaga	Aguascalientes	Pabellón de Arteaga	20671
+['20678	Vergel del Valle	Fraccionamiento	Pabellón de Arteaga	Aguascalientes	Pabellón de Arteaga	20671
+['20678	Valle del Vivero	Fraccionamiento	Pabellón de Arteaga	Aguascalientes	Pabellón de Arteaga	20671
+['20678	Villas de Guadalupe	Conjunto habitacional	Pabellón de Arteaga	Aguascalientes	Pabellón de Arteaga	20671
+['20678	Valle del Vivero II	Fraccionamiento	Pabellón de Arteaga	Aguascalientes	Pabellón de Arteaga	20671
+['20680	Las Ánimas	Pueblo	Pabellón de Arteaga	Aguascalientes	 	20671
+['20680	Santa Isabel	Fraccionamiento	Pabellón de Arteaga	Aguascalientes	 	20671
+['20680	Las Ánimas	Rancho	Pabellón de Arteaga	Aguascalientes	 	20671
+['20683	El Mezquite (Ojo de Agua del Mezquite)	Ejido	Pabellón de Arteaga	Aguascalientes	 	20671
+['20683	El Mezquite	Colonia	Pabellón de Arteaga	Aguascalientes	 	20671
+['20683	El Mezquite	Hacienda	Pabellón de Arteaga	Aguascalientes	 	20671
+['20683	Los Lira	Ranchería	Pabellón de Arteaga	Aguascalientes	 	20671
+['20684	Ojo Zarco	Colonia	Pabellón de Arteaga	Aguascalientes	 	20671
+['20684	Ojo Zarco	Ranchería	Pabellón de Arteaga	Aguascalientes	 	20671
+['20684	Ojo Zarco (La Loma)	Ejido	Pabellón de Arteaga	Aguascalientes	 	20671
+['20684	El Rayo	Colonia	Pabellón de Arteaga	Aguascalientes	 	20671
+['20686	Gámez Orozco (Puerta de Carboneras)	Colonia	Pabellón de Arteaga	Aguascalientes	 	20671
+['20686	San Pedro	Ranchería	Pabellón de Arteaga	Aguascalientes	 	20671
+['20687	El Cerrito	Ranchería	Pabellón de Arteaga	Aguascalientes	 	20671
+['20700	Guadalupe	Colonia	Asientos	Aguascalientes	 	20999
+['20700	Loma Bonita	Colonia	Asientos	Aguascalientes	 	20999
+['20700	Agua Nueva	Colonia	Asientos	Aguascalientes	 	20999
+['20700	Álamos	Fraccionamiento	Asientos	Aguascalientes	 	20999
+['20700	La Sierra	Colonia	Asientos	Aguascalientes	 	20999
+['20700	Arboledas	Colonia	Asientos	Aguascalientes	 	20999
+['20700	El Tule	Pueblo	Asientos	Aguascalientes	 	20999
+['20700	Villa Juárez Centro	Colonia	Asientos	Aguascalientes	 	20999
+['20700	La Loma	Colonia	Asientos	Aguascalientes	 	20999
+['20700	El Rascón	Colonia	Asientos	Aguascalientes	 	20999
+['20704	Viudas de Poniente	Ejido	Asientos	Aguascalientes	 	20999
+['20706	El Llavero	Ranchería	Asientos	Aguascalientes	 	20999
+['20708	Charco Azul	Ejido	Asientos	Aguascalientes	 	20999
