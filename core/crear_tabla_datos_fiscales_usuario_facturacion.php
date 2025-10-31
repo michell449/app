@@ -19,7 +19,13 @@ $sql = "CREATE TABLE IF NOT EXISTS `datos_fiscales_usuario` (
     FOREIGN KEY (`id_usuario`)
     REFERENCES `usuarios_facturacion` (`id_usuario`)
     ON DELETE CASCADE
-    ON UPDATE NO ACTION
+    ON UPDATE CASCADE
+    INDEX `fk_datos_fiscales_usuario_usuario_idx` (`codigo_postal` ASC) VISIBLE
+    CONSTRAINT `fk_datos_fiscales_usuario_usuario`
+    FOREIGN KEY (`codigo_postal`)
+    REFERENCES `cat_codigo_postal` (`codigo_postal`)
+    ON DELETE CASCADE
+    ON UPDATE CASCADE
 ) COLLATE='utf8mb4_general_ci' ENGINE=InnoDB;";
 
 try {

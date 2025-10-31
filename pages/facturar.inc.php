@@ -46,7 +46,9 @@
 
                         <!-- Botones -->
                         <div class="d-flex justify-content-between">
-                            <button type="submit" class="btn btn-primary w-48">Acceder</button>
+                            <a href="panel?pg=facturar-invitado" class="btn btn-success">
+                                Iniciar Sesión
+                            </a>
                             <button type="button" class="btn btn-secondary w-48" data-bs-toggle="modal" data-bs-target="#crearCuentaModal">Crear Cuenta</button>
                         </div>
                     </form>
@@ -60,7 +62,7 @@
                 <div class="col-12 text-center mt-4">
                     <div class="card shadow-sm" style="border-radius: 1rem; background-color: white; padding: 1.5rem;">
                         <a href="panel?pg=facturar-invitado" class="btn btn-info w-100" style="color: white; font-size: 1.2rem;">
-                                 Ingresar como invitado
+                            Ingresar como invitado
                         </a>
                     </div>
                 </div>
@@ -70,43 +72,40 @@
 
     <!-- Modal de creación de cuenta -->
 
-        <!-- Modal de creación de cuenta mejorado -->
-        <div class="modal fade" id="crearCuentaModal" tabindex="-1" aria-labelledby="crearCuentaModalLabel" aria-hidden="true">
-            <div class="modal-dialog modal-dialog-centered">
-                <div class="modal-content">
-                    <div class="modal-header bg-primary text-white">
-                        <h5 class="modal-title w-100 text-center" id="crearCuentaModalLabel" style="font-weight: bold;">Crear Cuenta</h5>
-                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar" style="background-color: white;"></button>
+    <div class="modal fade" id="crearCuentaModal" tabindex="-1" aria-labelledby="crearCuentaModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header bg-primary text-white">
+                    <h5 class="modal-title w-100 text-center" id="crearCuentaModalLabel" style="font-weight: bold;">Crear Cuenta</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar" style="background-color: white;"></button>
+                </div>
+                <div class="modal-body text-center" style="padding: 2.5rem 2rem;">
+                    <div class="mb-3">
+                        <i class="bi bi-person-plus-fill text-primary" style="font-size: 3.5rem;"></i>
                     </div>
-                    <div class="modal-body text-center" style="padding: 2.5rem 2rem;">
-                        <div class="mb-3">
-                            <i class="bi bi-person-plus-fill text-primary" style="font-size: 3.5rem;"></i>
+                    <form>
+                        <div class="mb-4">
+                            <label for="nuevoEmail" class="form-label" style="font-weight: 500;">Email</label>
+                            <input type="email" class="form-control form-control-lg text-center" id="nuevoEmail" placeholder="Introduce tu email" required style="font-size: 1.1rem;">
                         </div>
-                        <form>
-                            <div class="mb-4">
-                                <label for="nuevoEmail" class="form-label" style="font-weight: 500;">Email</label>
-                                <input type="email" class="form-control form-control-lg text-center" id="nuevoEmail" placeholder="Introduce tu email" required style="font-size: 1.1rem;">
-                            </div>
-                            <div class="mb-4">
-                                <label for="nuevaContraseña" class="form-label" style="font-weight: 500;">Contraseña</label>
-                                <input type="password" id="nuevaContraseña" class="form-control form-control-lg text-center" aria-describedby="passwordHelpBlock" placeholder="Ingresa tu contraseña" required style="font-size: 1.1rem;">
-                            </div>
-                            <div class="mb-4">
-                                <label for="confirmarContraseña" class="form-label" style="font-weight: 500;">Confirma tu contraseña</label>
-                                <input type="password" id="confirmarContraseña" class="form-control form-control-lg text-center" aria-describedby="passwordHelpBlock" placeholder="Ingresa nuevamente tu contraseña" required style="font-size: 1.1rem;">
-                            </div>
-                            <div class="d-flex justify-content-between mb-3">
-                                <button type="button" class="btn btn-secondary w-50 me-2" data-bs-dismiss="modal" style="border-radius: 0.75rem;">Cancelar</button>
-                                <button type="button" class="btn btn-primary w-50 ms-2" data-bs-toggle="modal" data-bs-target="#verificacionCorreoModal" style="font-size: 1.1rem; border-radius: 0.75rem; font-weight: 600;">Crear Cuenta</button>
-                            </div>
-                        </form>
-                    </div>
+                        <div class="mb-4">
+                            <label for="nuevaContraseña" class="form-label" style="font-weight: 500;">Contraseña</label>
+                            <input type="password" id="nuevaContraseña" class="form-control form-control-lg text-center" aria-describedby="passwordHelpBlock" placeholder="Ingresa tu contraseña" required style="font-size: 1.1rem;">
+                        </div>
+                        <div class="mb-4">
+                            <label for="confirmarContraseña" class="form-label" style="font-weight: 500;">Confirma tu contraseña</label>
+                            <input type="password" id="confirmarContraseña" class="form-control form-control-lg text-center" aria-describedby="passwordHelpBlock" placeholder="Ingresa nuevamente tu contraseña" required style="font-size: 1.1rem;">
+                        </div>
+                        <div class="d-flex justify-content-between mb-3">
+                            <button type="button" class="btn btn-secondary w-50 me-2" data-bs-dismiss="modal" style="border-radius: 0.75rem;">Cancelar</button>
+                            <button type="button" class="btn btn-primary w-50 ms-2" style="font-size: 1.1rem; border-radius: 0.75rem; font-weight: 600;">Crear Cuenta</button>
+                        </div>
+                    </form>
                 </div>
             </div>
         </div>
+    </div>
     <!-- Modal de verificación de correo -->
-
-    <!-- Modal de verificación de correo mejorado -->
     <div class="modal fade" id="verificacionCorreoModal" tabindex="-1" aria-labelledby="verificacionCorreoModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered">
             <div class="modal-content">
@@ -125,12 +124,54 @@
                             <label for="codigoVerificacion" class="form-label">Código de verificación</label>
                             <input type="text" class="form-control form-control-lg text-center" id="codigoVerificacion" placeholder="Ingresa el código" required>
                         </div>
-                        <button type="submit" class="btn btn-primary w-100" style="font-size: 1.2rem; padding: 0.75rem 0; border-radius: 0.75rem; font-weight: 600;">Verificar</button>
+                        <a href="panel?pg=registro-info-fiscal-usuarios" class="btn btn-primary w-100" style="font-size: 1.2rem; padding: 0.75rem 0; border-radius: 0.75rem; font-weight: 600;">
+                            Verificar
+                        </a>
                     </form>
                 </div>
             </div>
         </div>
     </div>
-
-
 </div>
+
+<script>
+// conectar html con php registrar usuarios
+document.querySelector('#crearCuentaModal .btn-primary').addEventListener('click', async function() {
+    const email = document.getElementById('nuevoEmail').value;
+    const password = document.getElementById('nuevaContraseña').value;  
+    const confirmPassword = document.getElementById('confirmarContraseña').value;
+
+    if (password !== confirmPassword) {
+        alert('Las contraseñas no coinciden.');
+        return;
+    }
+
+    //Validar contraseña (mínimo 8 caracteres, al menos una letra y un número)
+    const passwordRegex = /^(?=.*[A-Za-z])(?=.*\d)[A-Za-z\d]{8,}$/;
+    if (!passwordRegex.test(password)) {
+        alert('La contraseña debe tener al menos 8 caracteres, incluyendo al menos una letra y un número.');
+        return;
+    }
+
+    const res = await fetch('core/registro-usuarios-facturacion.php', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ email: email, password: password, confirmPassword: confirmPassword })
+    });
+
+    const data = await res.json();
+
+    if (data.success) {
+        // Cerrar el modal de creación de cuenta
+        const crearCuentaModal = bootstrap.Modal.getInstance(document.getElementById('crearCuentaModal'));
+        crearCuentaModal.hide();
+        // Abrir el modal de verificación de correo si el registro fue exitoso
+        const verificacionCorreoModal = new bootstrap.Modal(document.getElementById('verificacionCorreoModal'));
+        verificacionCorreoModal.show();
+    } else {
+        alert(data.message);
+    }
+});
+</script>
