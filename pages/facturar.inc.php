@@ -98,7 +98,7 @@
                         </div>
                         <div class="d-flex justify-content-between mb-3">
                             <button type="button" class="btn btn-secondary w-50 me-2" data-bs-dismiss="modal" style="border-radius: 0.75rem;">Cancelar</button>
-                            <button type="button" class="btn btn-primary w-50 ms-2" style="font-size: 1.1rem; border-radius: 0.75rem; font-weight: 600;">Crear Cuenta</button>
+                            <button type="button" class="btn btn-primary w-50 ms-2" id="btnCrearCuenta" style="font-size: 1.1rem; border-radius: 0.75rem; font-weight: 600;">Crear Cuenta</button>
                         </div>
                     </form>
                 </div>
@@ -124,9 +124,9 @@
                             <label for="codigoVerificacion" class="form-label">Código de verificación</label>
                             <input type="text" class="form-control form-control-lg text-center" id="codigoVerificacion" placeholder="Ingresa el código" required>
                         </div>
-                        <a href="panel?pg=registro-info-fiscal-usuarios" class="btn btn-primary w-100" style="font-size: 1.2rem; padding: 0.75rem 0; border-radius: 0.75rem; font-weight: 600;">
+                        <button type="submit" class="btn btn-primary w-100" style="font-size: 1.2rem; padding: 0.75rem 0; border-radius: 0.75rem; font-weight: 600;">
                             Verificar
-                        </a>
+                        </button>
                     </form>
                 </div>
             </div>
@@ -135,43 +135,85 @@
 </div>
 
 <script>
-// conectar html con php registrar usuarios
-document.querySelector('#crearCuentaModal .btn-primary').addEventListener('click', async function() {
-    const email = document.getElementById('nuevoEmail').value;
-    const password = document.getElementById('nuevaContraseña').value;  
-    const confirmPassword = document.getElementById('confirmarContraseña').value;
+    // conectar html con php registrar usuarios
+    document.getElementById('btnCrearCuenta').addEventListener('click', async function() {
+        const email = document.getElementById('nuevoEmail').value;
+        const password = document.getElementById('nuevaContraseña').value;
+        const confirmPassword = document.getElementById('confirmarContraseña').value;
 
-    if (password !== confirmPassword) {
-        alert('Las contraseñas no coinciden.');
-        return;
-    }
+        if (password !== confirmPassword) {
+            alert('Las contraseñas no coinciden.');
+            return;
+        }
 
-    //Validar contraseña (mínimo 8 caracteres, al menos una letra y un número)
-    const passwordRegex = /^(?=.*[A-Za-z])(?=.*\d)[A-Za-z\d]{8,}$/;
-    if (!passwordRegex.test(password)) {
-        alert('La contraseña debe tener al menos 8 caracteres, incluyendo al menos una letra y un número.');
-        return;
-    }
+        //Validar contraseña (mínimo 8 caracteres, al menos una letra y un número)
+        const passwordRegex = /^(?=.*[A-Za-z])(?=.*\d)[A-Za-z\d]{8,}$/;
+        if (!passwordRegex.test(password)) {
+            alert('La contraseña debe tener al menos 8 caracteres, incluyendo al menos una letra y un número.');
+            return;
+        }
 
-    const res = await fetch('core/registro-usuarios-facturacion.php', {
-        method: 'POST',
-        headers: {
-            'Content-Type': 'application/json'
-        },
-        body: JSON.stringify({ email: email, password: password, confirmPassword: confirmPassword })
+        const res = await fetch('core/registro-usuarios-facturacion.php', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({
+                email: email,
+                password: password,
+                confirmPassword: confirmPassword
+            })
+        });
+
+        try {
+            const data = await res.json();
+            console.log('Respuesta registro:', data);
+            if (data.success) {
+                // Cerrar el modal de creación de cuenta
+                const crearCuentaModal = bootstrap.Modal.getInstance(document.getElementById('crearCuentaModal'));
+                crearCuentaModal.hide();
+                // Mostrar mensaje de éxito
+                alert('¡Cuenta creada exitosamente! Revisa tu correo para el código de verificación.');
+                // Abrir el modal de verificación de correo si el registro fue exitoso
+                const verificacionCorreoModal = new bootstrap.Modal(document.getElementById('verificacionCorreoModal'));
+                verificacionCorreoModal.show();
+            } else {
+                alert(data.message);
+            }
+        } catch (e) {
+            console.error('Error al procesar la respuesta:', e);
+            alert('Ocurrió un error inesperado al crear la cuenta.');
+        }
+
+        // Limpiar los campos del formulario
+        document.getElementById('nuevoEmail').value = '';
+        document.getElementById('nuevaContraseña').value = '';
+        document.getElementById('confirmarContraseña').value = '';
     });
 
-    const data = await res.json();
-
-    if (data.success) {
-        // Cerrar el modal de creación de cuenta
-        const crearCuentaModal = bootstrap.Modal.getInstance(document.getElementById('crearCuentaModal'));
-        crearCuentaModal.hide();
-        // Abrir el modal de verificación de correo si el registro fue exitoso
-        const verificacionCorreoModal = new bootstrap.Modal(document.getElementById('verificacionCorreoModal'));
-        verificacionCorreoModal.show();
-    } else {
-        alert(data.message);
-    }
-});
+    //validar el correo
+    document.getElementById('formVerificacionCorreo').addEventListener('submit', async function(event) {
+        event.preventDefault();
+        const codigoVerificacion = document.getElementById('codigoVerificacion').value;
+        const resVerificacion = await fetch(`core/verificacion-correo-usuario-fact.php?token=${encodeURIComponent(codigoVerificacion)}`);
+        try {
+            const dataVerificacion = await resVerificacion.json();
+            console.log('Respuesta verificación:', dataVerificacion);
+            if (dataVerificacion.success) {
+                alert(dataVerificacion.message);
+                // Cerrar el modal de verificación de correo
+                const verificacionCorreoModal = bootstrap.Modal.getInstance(document.getElementById('verificacionCorreoModal'));
+                verificacionCorreoModal.hide();
+                // Redirigir al panel de facturación
+                window.location.href = 'panel?pg=facturar';
+            } else {
+                alert(dataVerificacion.message);
+                window.location.href = 'panel?pg=inicio';
+            }
+        } catch (e) {
+            console.error('Error al procesar la respuesta de verificación:', e);
+            alert('Ocurrió un error inesperado durante la verificación.');
+            window.location.href = 'panel?pg=inicio';
+        }
+    });
 </script>

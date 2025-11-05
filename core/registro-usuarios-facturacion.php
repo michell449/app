@@ -43,10 +43,8 @@ if ($count > 0) {
     exit;
 }
 
-
-
-// Crear token de verificación
-$token_verificacion = bin2hex(random_bytes(32));
+//generar token de verificacion
+$token_verificacion = str_pad(strval(random_int(0, 999999)), 6, '0', STR_PAD_LEFT); 
 $tipo_usuario = 'registrado';
 $verificacion = 0;
 
@@ -60,11 +58,11 @@ $stmt->execute([
     $token_verificacion
 ]);
 
-echo json_encode(['success' => true, 'message' => 'Usuario registrado exitosamente.']);
 
 // Enviar correo con token de verificación
 $mail = new PHPMailer(true);
 try {
+
     $mail->IsSMTP();
     $mail->isHTML(true);
     $mail->SMTPDebug = 0;
@@ -77,12 +75,20 @@ try {
     $mail->SetFrom(MAIL_USER, 'No Reply - Mtto Pro Lab.');
     $mail->AddReplyTo(MAIL_USER, "No Reply - Mtto Pro Lab.");
     $mail->Subject = 'Verificación de correo electrónico';
+    $mailContent = '<h2>Verifica tu correo electrónico</h2>' .
+        '<p>Gracias por registrarte. Para completar tu registro, ingresa el siguiente código de verificación en el portal:</p>' .
+        '<div style="font-size:1.5rem; font-weight:bold; color:#007bff; margin:1rem 0;">' . $token_verificacion . '</div>' .
+        '<p>Si no solicitaste este registro, ignora este mensaje.</p>';
     $mail->Body = $mailContent;
     $mail->AltBody = strip_tags($mailContent);
     $mail->CharSet = "utf-8";
-    $mail->send();
+    $mail->addAddress($email);
 
-    
+    $mail->send();
 } catch (Exception $e) {
     error_log("Error al enviar el correo de verificación: " . $mail->ErrorInfo);
 }
+
+// Respuesta final para el frontend
+echo json_encode(['success' => true, 'message' => 'Usuario registrado exitosamente. Revisa tu correo para el código de verificación.']);
+exit;
